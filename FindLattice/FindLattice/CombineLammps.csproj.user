@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <StartArguments>/home/mohamad/Dropbox/Phd_Work/Lammps/Lammps_Case/Case_Master_Test/atom_dump /home/mohamad/Dropbox/Phd_Work/Lammps/Lammps_Case/Case_Master_Test/chunk_dump /home/mohamad/Dropbox/Phd_Work/Lammps/Lammps_Case/Case_Master_Test/chunk_dump_2 /home/mohamad/Dropbox/Phd_Work/Lammps/Lammps_Case/Case_Master_Test/atom_dump_after_combine_new </StartArguments>
+  </PropertyGroup>
+</Project>

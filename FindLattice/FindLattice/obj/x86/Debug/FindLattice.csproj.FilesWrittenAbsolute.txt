@@ -1,0 +1,6 @@
+/eng/home/mcheikh/C-Sharp/FindLattice/FindLattice/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/eng/home/mcheikh/C-Sharp/FindLattice/FindLattice/bin/Debug/FindLattice.exe.mdb
+/eng/home/mcheikh/C-Sharp/FindLattice/FindLattice/bin/Debug/FindLattice.exe
+/eng/home/mcheikh/C-Sharp/FindLattice/FindLattice/obj/x86/Debug/FindLattice.exe
+/eng/home/mcheikh/C-Sharp/FindLattice/FindLattice/obj/x86/Debug/FindLattice.exe.mdb
+/eng/home/mcheikh/C-Sharp/FindLattice/FindLattice/bin/Debug/MyLibrary.dll

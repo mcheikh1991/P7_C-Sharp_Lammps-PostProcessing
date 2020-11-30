@@ -1,0 +1,8 @@
+/home/mohamad/Dropbox/Phd_Work/C-Sharp/FindLattice/FindLattice/bin/Release/FindLattice.exe
+/home/mohamad/Dropbox/Phd_Work/C-Sharp/FindLattice/FindLattice/bin/Release/FindLattice.pdb
+/home/mohamad/Dropbox/Phd_Work/C-Sharp/FindLattice/FindLattice/bin/Release/MyLibrary.dll
+/home/mohamad/Dropbox/Phd_Work/C-Sharp/FindLattice/FindLattice/obj/x86/Release/FindLattice.csproj.CoreCompileInputs.cache
+/home/mohamad/Dropbox/Phd_Work/C-Sharp/FindLattice/FindLattice/obj/x86/Release/FindLattice.csproj.CopyComplete
+/home/mohamad/Dropbox/Phd_Work/C-Sharp/FindLattice/FindLattice/obj/x86/Release/FindLattice.exe
+/home/mohamad/Dropbox/Phd_Work/C-Sharp/FindLattice/FindLattice/obj/x86/Release/FindLattice.pdb
+/home/mohamad/Dropbox/Phd_Work/C-Sharp/FindLattice/FindLattice/obj/x86/Release/FindLattice.csprojAssemblyReference.cache

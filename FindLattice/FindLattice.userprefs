@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="FindLattice/FindLattice.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../MyLibrary/AtomsData.cs">
+    <Files>
+      <File FileName="FindLattice/Program.cs" Line="44" Column="17" />
+      <File FileName="../MyLibrary/Lattice.cs" Line="45" Column="1" />
+      <File FileName="../MyLibrary/AtomsData.cs" Line="68" Column="33" />
+      <File FileName="../MyLibrary/LatticeData.cs" Line="62" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

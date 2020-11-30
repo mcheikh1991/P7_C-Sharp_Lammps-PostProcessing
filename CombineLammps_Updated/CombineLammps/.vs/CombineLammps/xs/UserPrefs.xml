@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3253E6D3-9F90-4797-A895-FF04AACAA573}|Default">
+  <MonoDevelop.Ide.ItemProperties.CombineLammps PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="55" Column="33" />
+      <File FileName="Chunk.cs" Line="10" Column="35" />
+      <File FileName="Point.cs" Line="1" Column="1" />
+      <File FileName="Vector.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

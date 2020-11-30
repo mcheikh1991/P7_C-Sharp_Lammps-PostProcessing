@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3253E6D3-9F90-4797-A895-FF04AACAA573}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindLattice/Program.cs">
+    <Files>
+      <File FileName="FindLattice/Program.cs" Line="139" Column="58" />
+      <File FileName="../MyLibrary/LatticeData.cs" Line="81" Column="135" />
+      <File FileName="../MyLibrary/Lattice.cs" Line="129" Column="34" />
+      <File FileName="../MyLibrary/AtomsData.cs" Line="208" Column="17" />
+      <File FileName="../MyLibrary/Atom.cs" Line="166" Column="79" />
+      <File FileName="../MyLibrary/Vector.cs" Line="34" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.ItemProperties.FindLattice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
